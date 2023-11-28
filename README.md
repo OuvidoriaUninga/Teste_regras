@@ -1,14 +1,14 @@
 # Configuração no Repositório do GitHub:
 ## Criar o Repositório:
--Faça login na sua conta do GitHub.
--Crie um novo repositório.
--Defina o nome, descrição e outras configurações necessárias.
--Configurar as Branches Principais:
--Vá para as configurações do repositório.
--No menu "Branches", defina a branch padrão como main.
--Crie uma branch protegida para main que exija revisões e testes antes da mesclagem.
--Configurar Proteções de Branches:
--Para a branch main, configure as proteções necessárias, como status de verificação e revisões obrigatórias antes da mesclagem.
+- Faça login na sua conta do GitHub.
+- Crie um novo repositório.
+- Defina o nome, descrição e outras configurações necessárias.
+- Configurar as Branches Principais:
+- Vá para as configurações do repositório.
+- No menu "Branches", defina a branch padrão como main.
+- Crie uma branch protegida para main que exija revisões e testes antes da mesclagem.
+- Configurar Proteções de Branches:
+- Para a branch main, configure as proteções necessárias, como status de verificação e revisões obrigatórias antes da mesclagem.
 
 # Adicionar Colaboradores:
 ## Acesso às Configurações do Repositório:
