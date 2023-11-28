@@ -1,5 +1,3 @@
-# Teste_regras
-
 # Configuração no Repositório do GitHub:
 ## Criar o Repositório:
 -Faça login na sua conta do GitHub.
